@@ -1,6 +1,0 @@
-[submodule "eShopOnContainers"]
-	path = 3- Microservices/eShopOnContainers
-	url = https://github.com/peterhack/eShopOnContainers.git
-[submodule "eShopOnWeb"]
-	path = 1-Monolith/eShopOnWeb
-	url = https://github.com/peterhack/eShopOnWeb.git
